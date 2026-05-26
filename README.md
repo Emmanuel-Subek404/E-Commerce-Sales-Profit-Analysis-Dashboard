@@ -157,5 +157,5 @@ Inventory optimization analysis
 Advanced drill-through reports
 Real-time dashboard integration
 
-Author
+Author:
 Emmanuel Subek Das
